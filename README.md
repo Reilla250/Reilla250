@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi 👋, I'm Patrick Tuyisenge Sebarera
 
-<!--
-**Reilla250/Reilla250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Networking Student | Backend Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building web applications, networking, cybersecurity, and solving real-world problems with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Networking Student
+- 💻 Backend Developer
+- 🌱 Currently learning Next.js, Spring Boot, PostgreSQL
+- 🇷🇼 Based in Kigali, Rwanda
+
+---
+
+## 🛠 Skills
+
+### Languages
+
+- JavaScript
+- Java
+- SQL
+- HTML
+- CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- Spring Boot
+
+### Database
+
+- PostgreSQL
+- MySQL
+
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+
+### Tools
+
+- Git
+- GitHub
+- Linux
+- VS Code
+- Docker
+
+---
+
+## 📂 Featured Projects
+
+### Internship Management System
+
+Java + Spring Boot
+
+### Expense Tracker
+
+Next.js + PostgreSQL
+
+### Restaurant Website
+
+React + Express
+
+### Network Monitoring Dashboard
+
+Linux + Networking
+
+---
+
+## 📫 Contact Me
+
+📧 Email: patrictuyisenge4@gmail.com
+
+📱 Phone: +250788504116
+
+🌍 Kigali, Rwanda
